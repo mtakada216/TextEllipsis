@@ -7,7 +7,7 @@ using UnityEngine.EventSystems;
 /// Textを範囲内に収まるように省略して表示する
 /// 省略表示させたいTextと一緒にアタッチする
 /// </summary>
-public class UITextEllipsis : UIBehaviour
+public class TextEllipsis : UIBehaviour
 {
     private Text m_Text;
 
